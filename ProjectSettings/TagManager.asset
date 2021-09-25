@@ -9,6 +9,8 @@ TagManager:
   - sky
   - return to main manu
   - maintab
+  - gameover
+  - credit
   layers:
   - Default
   - TransparentFX

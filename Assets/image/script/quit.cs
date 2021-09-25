@@ -8,7 +8,7 @@ public class quit : MonoBehaviour
     {
         
         
-            if (Input.GetKey("escape"))
+           
             
     Application.Quit();
 
